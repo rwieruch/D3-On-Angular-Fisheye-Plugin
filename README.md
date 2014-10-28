@@ -1,15 +1,17 @@
 D3-On-Angular-Seed
 ==================
 
-This project is a skeleton for angular.js web apps with the power to make awesome d3.js visualizations. It was scaffolded by yeoman.
+This project is a skeleton for angular.js web apps with the power to make awesome d3.js visualizations. It was scaffolded by yeoman. More on http://www.robinwieruch.de/
 
 Getting Started
 ==================
 
 Clone the angular-seed repository using git:
 
+```
 git clone https://github.com/wrobin/D3-On-Angular-Seed.git
 cd D3-On-Angular-Seed
+```
 
 Run:
 
