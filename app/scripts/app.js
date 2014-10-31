@@ -12,7 +12,8 @@ angular
   .module('d3OnAngularSeedApp', [
     'ngResource',
     'ngRoute',
-    'd3'
+    'd3',
+    'fisheye'
   ])
   .config(function ($routeProvider) {
     $routeProvider

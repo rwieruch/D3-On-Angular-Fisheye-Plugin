@@ -8,7 +8,8 @@
     "bootstrap": "~3.2.0",
     "angular-resource": "1.2.16",
     "angular-route": "1.2.16",
-    "d3": "~3.4.12"
+    "d3": "~3.4.12",
+    "d3-plugins-fisheye": "https://raw.githubusercontent.com/d3/d3-plugins/master/fisheye/fisheye.js"
   },
   "devDependencies": {
     "angular-mocks": "1.2.16",
