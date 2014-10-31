@@ -25,3 +25,5 @@ Sample Line Chart
 ==================
 
 The project includes an example directive for a simple line chart (simplelinechart.js). In the main.html template you will find a `<div simple-line-chart></div>` element to create the line chart.
+Furthermore it includes a scatterplot with the d3-plugin fisheye: `<div scatterplot></div>`
+
